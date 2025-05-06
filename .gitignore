@@ -15,3 +15,6 @@ Thumbs.db
 # Bỏ qua file cá nhân
 *.env
 *.properties
+
+# Đảm bảo thư mục src không bị bỏ qua
+!/src/**/*.java
